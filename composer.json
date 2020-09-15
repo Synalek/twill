@@ -1,5 +1,5 @@
 {
-  "name": "area17/twill",
+  "name": "synalek/twill",
   "type": "library",
   "license": "Apache-2.0",
   "description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.",
